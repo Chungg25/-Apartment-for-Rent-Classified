@@ -1,0 +1,23 @@
+# Attributes for Apartment for Rent Classified
+id = unique identifier of apartment
+category = category of classified
+title = title text of apartment
+body = body text of apartment
+amenities = like AC, basketball,cable, gym, internet access, pool, refrigerator etc.
+bathrooms = number of bathrooms
+bedrooms = number of bedrooms
+currency = price in current
+fee = fee
+has_photo = photo of apartment
+pets_allowed = what pets are allowed dogs/cats etc.
+price = rental price of apartment
+price_display = price converted into display for reader
+price_type = price in USD
+square_feet = size of the apartment
+address =  where the apartment is located
+cityname =  where the apartment is located
+state =  where the apartment is located
+latitude = where the apartment is located
+longitude = where the apartment is located
+source = origin of classified
+time = when classified was created
